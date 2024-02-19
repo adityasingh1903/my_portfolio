@@ -157,3 +157,12 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+//redirectTogmail
+function redirectToGmail() {
+  // Replace 'your_email@example.com' with your actual email address
+  var email = 'adityahereforu123@hmail.com';
+  // Construct the Gmail compose URL with the recipient's email pre-filled
+  var gmailUrl = 'https://mail.google.com/mail/?view=cm&fs=1&to=' + encodeURIComponent(email);
+  // Redirect the user to the Gmail compose page
+  window.location.href = gmailUrl;
+}
