@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Aditya singh
+Aditya singh
+Software Developer
 
 Show Contacts
 
 Email
-richard@example.com
+adityahereforu123@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9142738359
 
 Birthday
-June 23, 1982
+2 feb 2003
 
 Location
-Sacramento, California, USA
+Chandigarh ,India
 
 # navbar
 
